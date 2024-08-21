@@ -3,7 +3,7 @@ Module 9 Challenge Joe Almendarez
 
 ## Employees Database Setup
 
-This README outlines the steps taken to create and set up the employees database using PostgreSQL, including the creation of an Entity-Relationship Diagram (ERD) and importing data from CSV files. The employees database was created to analyze employee-related data within an organization.
+This README outlines what was done to create and set up the employees database using PostgreSQL, including the creation of an Entity-Relationship Diagram (ERD) and importing data from CSV files. The employees database was created to analyze employee-related data within an organization.
 
 ## Database Design
 
@@ -51,7 +51,7 @@ The database consists of six tables with the following relationships:
 
 ### Table Creation
 
-- Using SQL in PgAdmin to create the tables:
+- Using SQL in PgAdmin to create the tables.
 
 ### Import Data from CSV Files
 
